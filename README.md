@@ -1,4 +1,4 @@
-# soc-homelab
+# wazuh-detection-lab
 
 A small, free SOC and purple-team home lab built to show I can detect, investigate and explain attacks, and that I understand them from the bug bounty side.
 
