@@ -1,1 +1,0 @@
-# wazuh-detection-lab
