@@ -1,0 +1,13 @@
+# Never commit these
+wazuh-install-files.tar
+wazuh-passwords.txt
+*.vdi
+*.vmdk
+*.ova
+*.iso
+*.env
+*.key
+*.pem
+*.pcap
+.DS_Store
+Thumbs.db
